@@ -1,0 +1,300 @@
+.app-body{
+    background-color: #000;
+}
+
+.logo{
+  width: 160px;
+  margin-left: 80px;
+}
+
+  .iniciar-sesion{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #E80000;
+    padding: 15px 30px;
+    border-radius: 10px;
+    margin-left: 80px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .iniciar-sesion:hover{
+    background-color: #1a1a1a;
+    border: 2px solid #e80000;
+  }
+
+.mes-gratis{
+  /*-------------------------------*/
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: #E80000;
+  padding: 15px 30px;
+  border-radius: 10px;
+  /*margin-left: 870px*/
+  float: right;
+  right: 0;
+  position: absolute;
+  /*margin: 4%;*/
+  
+  margin-right: 70px;
+  top: 80%;
+
+  font-size: 18px;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+@media (min-width: 768px){/*
+.col-md-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}*/
+}
+@media screen and (max-width: 1258px ){
+  .mes-gratis{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #1100ff;
+    padding: 15px 22px;
+    border-radius: 10px;
+  
+    font-size: 18px;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+  }
+  .intro{
+    position: center;
+
+  }
+
+
+}
+
+.mes-gratis:hover{
+  background-color: #1a1a1a;
+  border: 2px solid #e80000;
+}
+
+  .riverdale{
+   background-image: url(http://cdn.warnerestrenos.com/res/series/riverdale2017/header/header_minisite_mid.jpg);/*image fondo*/
+   background-size: cover;/*para que se ajuste al tamaño de la imagen*/
+   background-repeat: no-repeat;/*para que no se repita la imagen*/
+   background-position: center;/*para que se ajuste al centro*/
+   height: 100vh;/*para que se ajuste al tamaño de la imagen*/
+   background-attachment: fixed;/*para que se ajuste al tamaño de la imagen*/
+  }
+
+  .intro{
+   margin-top: 360px;
+  }
+
+  .intro-contenido{
+    color: #fff;
+    font-family: Arvo;
+    margin-left: 80px;
+  }
+  
+  .intro-content{
+    color: #fff;
+    font-family: Arvo-bold;
+    margin-left: 80px;
+   /* margin-top: 390px;*/
+  }
+
+  
+  /*---*/
+
+  .intro-ahora{
+    color: #fff;
+    font-family: Arvo-bold;
+    /*margin-left: 80px;*/
+  }
+  
+  .container-menu{
+    background-color: #000;
+    /*width: 1600px;*/
+  }
+  
+  /*.col-md4-pay{
+    width: 1600px;
+    height: 800px;
+    background-color: #000;
+  }*/
+  
+  .fa-calendar-minus{
+    color: #fff;
+    margin-left: 80px;
+  }
+
+  
+  .fa-tv{
+    color: #fff;
+    margin-left: 80px;
+  }
+  
+  .texto-peliculas{
+    color: #fff;
+    font-family: Arvo;
+    margin-left: 80px;
+  }
+  
+  .imagen-tv{
+    margin-left: 80px;
+  }
+  
+  .ver-netflix{
+    color: #fff;
+    font-family: arvo-bold;
+    margin-left: 700px;
+    margin-top: -300px;
+  }
+
+  .smart-tv{
+    color: #fff;
+    font-family: arvo;
+    margin-left: 700px;
+  }
+  
+  .imagen-devices{
+    margin-left: 80px;
+    margin-top: 270px;
+  }
+  
+  .disfruta-netflix{
+    color: #fff;
+    font-family: arvo-bold;
+    margin-left: 700px;
+    margin-top: -275px;
+  }
+  
+  .netflix-disponible{
+    color: #fff;
+    font-family: arvo;
+    margin-left: 700px;
+  }
+  
+  .imagen-laptop{
+    margin-left: 80px;
+    margin-top: 270px;
+  }
+  
+  .computadora-texto{
+    color: #fff;
+    font-family: arvo-bold;
+    margin-left: 700px;
+    margin-top: -275px;
+  }
+  
+  .texto-directo{
+    color: #fff;
+    font-family: arvo;
+    margin-left: 700px;
+  }
+  
+  
+  .first-line{
+    color: #fff;
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+    margin-left: -7px;
+  }
+  
+  .second-line{
+    color: #fff;
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+    margin-left: -90px;
+  }
+  
+  .tv-line{
+    color: #fff;
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+    margin-left: 80px;
+  }
+  
+  .smart-line{
+    
+    color: #fff;
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+
+  }
+  
+  .disponible-line{
+    color: #fff;
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+    margin-left: 0px;
+  }
+  
+  .section-line{
+    color: #fff;
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+    margin-left: 80px;
+  }
+  
+  .fa-credit-card{
+    color: #fff;
+  }
+  
+  .payment-category{
+    /*width: 1600px;*/
+    color: #fff;
+    font-family: arvo-bold;
+    margin-left: 80px;
+    
+  }
+
+  .tabla{
+    width: 1600px;
+  }
+  
+  .payment-line{
+    display: inline;
+    color: #fff;
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+    margin-left: 1px;
+  }
+
+  
+  .precio-mensual{
+    font-family: arvo;
+    color: #fff;
+    margin-left: 80px;
+  }
+  
+  .precios{
+    word-spacing: 80px;
+    font-family: arvo-italic;
+    color: #fff;
+    margin-left: 670px;
+    margin-top: -50px;
+  }
+  
+  .payment-section{
+    color: #fff;
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+    margin-left: 80px;
+  }
+  
+
