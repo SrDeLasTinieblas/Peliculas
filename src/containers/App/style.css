@@ -1,4 +1,4 @@
-.app-body{
+.app{
     background-color: #000;
 }
 
@@ -56,33 +56,14 @@
     max-width: 100%;
 }*/
 }
-@media screen and (max-width: 1258px ){
-  .mes-gratis{
-    text-decoration: none;
-    color: #fff;
-    text-transform: uppercase;
-    background-color: #1100ff;
-    padding: 15px 22px;
-    border-radius: 10px;
-  
-    font-size: 18px;
-    font-weight: bold;
-    transition: all 0.3s ease-in-out;
-    cursor: pointer;
-  }
-  .intro{
-    position: center;
 
-  }
-
-
-}
 
 .mes-gratis:hover{
   background-color: #1a1a1a;
   border: 2px solid #e80000;
 }
 
+/* FONDO DE PANTALLA*/
   .riverdale{
    background-image: url(http://cdn.warnerestrenos.com/res/series/riverdale2017/header/header_minisite_mid.jpg);/*image fondo*/
    background-size: cover;/*para que se ajuste al tamaño de la imagen*/
@@ -92,8 +73,8 @@
    background-attachment: fixed;/*para que se ajuste al tamaño de la imagen*/
   }
 
-  .intro{
-   margin-top: 360px;
+  .contenido{
+   margin-top: 330px;
   }
 
   .intro-contenido{
@@ -140,18 +121,14 @@
     margin-left: 80px;
   }
   
-  .texto-peliculas{
-    color: #fff;
-    font-family: Arvo;
-    margin-left: 80px;
-  }
-  
+
   .imagen-tv{
     margin-left: 80px;
+    
   }
   
   .ver-netflix{
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-family: arvo-bold;
     margin-left: 700px;
     margin-top: -300px;
@@ -199,7 +176,6 @@
     margin-left: 700px;
   }
   
-  
   .first-line{
     color: #fff;
     display: block;
@@ -225,12 +201,10 @@
   }
   
   .smart-line{
-    
     color: #fff;
     display: block;
     border-style: inset;
     border-width: 1px;
-
   }
   
   .disponible-line{
@@ -249,52 +223,65 @@
     margin-left: 80px;
   }
   
-  .fa-credit-card{
-    color: #fff;
+  /* PHONE */
+
+  @media only screen and (max-width: 950px) and (max-width: 1449px){
+  .contenido {
+    font-size: 14px;
+    margin-top: 15%;
+    text-align: center;
   }
-  
-  .payment-category{
-    /*width: 1600px;*/
-    color: #fff;
+  .imagen-tv img{
+    float: left;
+    margin-left: -50px;
+    width: 50%;
+    height: 50%;
+  }
+  .ver-netflix{
+    color: rgb(255, 255, 255);
     font-family: arvo-bold;
-    margin-left: 80px;
-    
+    margin-left: 200px;
+    margin-top: 20px;
+
   }
 
-  .tabla{
-    width: 1600px;
+  .imagen-devices img{
+    float: left;
+    margin-left: -50px;
+    width: 50%;
+    height: 50%;
   }
   
-  .payment-line{
-    display: inline;
-    color: #fff;
+
+
+}
+
+/*@media only screen and (min-width: 1450px), only screen and (min-width: 950px) and (max-width: 1449px){
+.our-story-card-background {
+    top: -100px;
+}}
+
+.our-story-card-background {
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: -90px;
+    z-index: 0;
+}
+* {
+    letter-spacing: 0!important;
+}
+.user agent stylesheet div {
     display: block;
-    border-style: inset;
-    border-width: 1px;
-    margin-left: 1px;
-  }
+}
 
-  
-  .precio-mensual{
-    font-family: arvo;
+.our-story-card {
+    background: transparent;
+    border-bottom: 8px solid #222;
     color: #fff;
-    margin-left: 80px;
-  }
-  
-  .precios{
-    word-spacing: 80px;
-    font-family: arvo-italic;
-    color: #fff;
-    margin-left: 670px;
-    margin-top: -50px;
-  }
-  
-  .payment-section{
-    color: #fff;
-    display: block;
-    border-style: inset;
-    border-width: 1px;
-    margin-left: 80px;
-  }
-  
-
+    margin-bottom: 0;
+    padding: 50px 5%;
+    position: relative;
+}*/

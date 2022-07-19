@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 export const Inicio = () => {
 
   return (
-    <body className='app'>
+<body className='app'>
       <div className='container-fluid header'>
         <div className="row">
           <div className="col-md12 nav-bar riverdale">{/* imagen de fondo */}
@@ -14,7 +14,7 @@ export const Inicio = () => {
             <div className="first-button">{<Link to='/login' className="iniciar-sesion">iniciar sesión</Link>}</div>
 
 
-        
+        <div className="contenido">
             <div className="intro-content">
               <h1>Tu próxima historia, ahora</h1>
             </div>
@@ -27,6 +27,7 @@ export const Inicio = () => {
 
             <div className="intro-contenido">
               <h2>CANCELA CUANDO QUIERAS</h2>
+            </div>
             </div>
 
             <div className="second-button">
@@ -56,7 +57,7 @@ export const Inicio = () => {
                 <div className="ver-netflix">
                   <p >Ver Netflix en tu TV</p>
                 </div>
-                <div className="smart-tv">
+                {/*<div className="smart-tv">
                   <p>Smart Tv, Playstation, Xbox, Chromecast, <br />
                     Apple TV, reproductores de Blu-Ray y más.</p>
                   <hr className="smart-line" width="40%" />
@@ -80,7 +81,7 @@ export const Inicio = () => {
                 <div className="disfruta-netflix">
                   <p >Disponible en tu teléfono o tablet, vayas a <br /> donde vayas.</p>
                   <hr className="disponible-line" width="40%" />
-                </div>
+                </div>*/}
 
                 <br />
                 <br />
@@ -90,7 +91,11 @@ export const Inicio = () => {
                 <br />
                 <br />
                 <br />
-
+                <br />
+                <br />
+                <br />
+                <br />
+                
               </div>
 
               <br />
