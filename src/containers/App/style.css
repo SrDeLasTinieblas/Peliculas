@@ -65,7 +65,7 @@
 
 /* FONDO DE PANTALLA*/
   .riverdale{
-   background-image: url(http://cdn.warnerestrenos.com/res/series/riverdale2017/header/header_minisite_mid.jpg);/*image fondo*/
+   background-image: url('https://i.ibb.co/5WpL4zJ/header-minisite-mid.jpg');/*image fondo*/
    background-size: cover;/*para que se ajuste al tamaño de la imagen*/
    background-repeat: no-repeat;/*para que no se repita la imagen*/
    background-position: center;/*para que se ajuste al centro*/

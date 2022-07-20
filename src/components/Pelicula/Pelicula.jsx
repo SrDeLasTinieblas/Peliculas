@@ -38,7 +38,7 @@ const Pelicula = () => {
         {/*<h1>Pelicula</h1>*/}
         {/*<VideoJS options={videoJsOptions} />*/}
         <ReactPlayer
-            url='https://mega.nz/file/DDYERSzR#BHXwxqT0HaJ1CC6jC4wvnoD6biKBbIx9l7CdG0zMfPs'
+            url='https://drive.google.com/uc?export=download&id=1qqBezexk7b9yZextCneIyTOuzEcof8pr'
             controls={true}
             width='100%'
             height='100%'
