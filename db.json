@@ -1,0 +1,16 @@
+{
+  "productos": [
+   {
+    "id": 1,
+    "titulo": "Sony WH/100XM",
+    "descripcion": "The intuitive and intelligent WH-1000XM4 headphones",
+    "imagen1": "",
+    "imagen2": "",
+    "imagen3": "",
+    "imagen4": "",
+    "descuento": "",
+    "precio": 128,
+    "delivery":""
+   }
+  ]
+}
