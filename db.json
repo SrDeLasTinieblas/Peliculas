@@ -11,6 +11,30 @@
     "descuento": 20,
     "precio": 128,
     "delivery":""
+   },
+       {
+    "id": 2,
+    "titulo": "Sony WH/100XM",
+    "descripcion": "The intuitive and intelligent WH-1000XM4 headphones",
+    "imagen1": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "imagen2": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "imagen3": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "imagen4": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "descuento": 20,
+    "precio": 129,
+    "delivery":""
+   },
+           {
+    "id": 3,
+    "titulo": "Sony WH/100XM",
+    "descripcion": "The intuitive and intelligent WH-1000XM4 headphones",
+    "imagen1": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "imagen2": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "imagen3": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "imagen4": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "descuento": 20,
+    "precio": 139,
+    "delivery":""
    }
   ]
 }
