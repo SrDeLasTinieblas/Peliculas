@@ -10,11 +10,11 @@
     "imagen4": "",
     "descuento": 20,
     "precio": 128,
-    "delivery":""
+    "delivery":"no free shipping"
    },
        {
     "id": 2,
-    "titulo": "Silla gamer Technisport gas clase 2",
+    "titulo": "Silla gamer Technisport",
     "descripcion": "Soporte máximo de 120 kg, tiene control de altura, el ancho del asiento es de 52 cm, estructura de PVC, tapiz de cuero PU, relleno de espuma de poliuretano, sistema de elevación de gas revestido de clase 2 y angulo de inclinación hasta 1tiene control de altura, el ancho del asiento es de 52 cm, estructura de PVC, tapiz de cuero PU, relleno de espuma de poliuretano",
     "imagen1": "https://i.ibb.co/k9XZqy5/1auto.png",
     "imagen2": "https://i.ibb.co/hffpq8k/3210079-800-auto.png",
@@ -22,11 +22,11 @@
     "imagen4": "",
     "descuento": 15,
     "precio": 599.90,
-    "delivery":""
+    "delivery":"Free shipping"
    },
            {
     "id": 3,
-    "titulo": "Camara Canon EOS Rebel T100 EF-S 18-55mm 18MP",
+    "titulo": "Camara Canon EOS Rebel",
     "descripcion": "La cámara Canon EOS Rebel T100 te permitira capturar imágenes impresionantes. Su desenfoque de fondo natural luce increíble, incluso en condiciones de luz difíciles.",
     "imagen1": "https://i.ibb.co/2ZGNVm0/3215979-800-auto.png",
     "imagen2": "https://i.ibb.co/txy8HZR/1215979-800-auto.png",
@@ -34,7 +34,7 @@
     "imagen4": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
     "descuento": 10,
     "precio": 1.999,
-    "delivery":""
+    "delivery":"Free shipping"
    }
   ]
 }
