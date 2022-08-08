@@ -14,26 +14,27 @@
    },
        {
     "id": 2,
-    "titulo": "Sony WH/101XM",
-    "descripcion": "The intuitive and intelligent WH-1000XM4 headphones",
-    "imagen1": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2021/11/24/google-imagenes-2.png",
-    "imagen2": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
-    "imagen3": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "titulo": "Silla gamer Technisport gas clase 2",
+    "descripcion": "Soporte máximo de 120 kg, tiene control de altura, el ancho del asiento es de 52 cm, estructura de PVC, tapiz de cuero PU, relleno de espuma de poliuretano, sistema de elevación de gas revestido de clase 2 y ángulo de inclinación hasta 180°.
+",
+    "imagen1": "https://i.ibb.co/k9XZqy5/1auto.png",
+    "imagen2": "https://i.ibb.co/hffpq8k/3210079-800-auto.png",
+    "imagen3": "https://i.ibb.co/Y20YSQt/1sillablue.png",
     "imagen4": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
-    "descuento": 20,
-    "precio": 129,
+    "descuento": 15,
+    "precio": 599.90,
     "delivery":""
    },
            {
     "id": 3,
-    "titulo": "Sony WH/102XM",
-    "descripcion": "The intuitive and intelligent WH-1000XM4 headphones",
-    "imagen1": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
-    "imagen2": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
-    "imagen3": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "titulo": "Cámara Canon EOS Rebel T100 EF-S 18-55mm 18MP",
+    "descripcion": "La cámara Canon EOS Rebel T100 te permitirá capturar imágenes impresionantes. Su desenfoque de fondo natural luce increíble, incluso en condiciones de luz difíciles.",
+    "imagen1": "https://i.ibb.co/2ZGNVm0/3215979-800-auto.png",
+    "imagen2": "https://i.ibb.co/txy8HZR/1215979-800-auto.png",
+    "imagen3": "https://i.ibb.co/N79jRB9/2215979-800-auto.png",
     "imagen4": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
-    "descuento": 20,
-    "precio": 139,
+    "descuento": 10,
+    "precio": 1,999.00,
     "delivery":""
    }
   ]
