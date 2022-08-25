@@ -4,9 +4,9 @@
     "id": 1,
     "titulo": "Sony WH/100XM",
     "descripcion": "The intuitive and intelligent WH-1000XM4 headphones",
-    "imagen1": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
-    "imagen2": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
-    "imagen3": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "imagen1": "https://i.ibb.co/VBk2HwS/t3bbjev3fylduinuws1p-removebg-preview.png",
+    "imagen2": "https://i.ibb.co/GJWCdtd/wt03nzll2vl66mpve67y-removebg-preview.png",
+    "imagen3": "https://i.ibb.co/M6GDYKL/rizowrdknexkmcjh8lqy-removebg-preview.png",
     "imagen4": "",
     "descuento": 20,
     "precio": 128,
@@ -34,6 +34,39 @@
     "imagen4": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
     "descuento": 10,
     "precio": 1999,
+    "delivery":"Free shipping"
+   },
+             {
+    "id": 4,
+    "titulo": "iPhone 13",
+    "descripcion": "Este smartphone de Apple resiste al agua y los cambios de clima, gracias a su sistema de protección Ceramic Shield. Además, cuenta con una batería de larga duración. Llévalo al trabajo y no te preocupes de volverlo a cargar.",
+    "imagen1": "https://i.ibb.co/8rwWbvb/197911-800-auto-removebg-preview.png",
+    "imagen2": "https://i.ibb.co/Dg0RVFm/197912-800-auto-removebg-preview.png",
+    "imagen3": "https://i.ibb.co/Ytx6Z32/197916-800-auto-removebg-preview.png",
+    "descuento": 10,
+    "precio": 4599,
+    "delivery":"Free shipping"
+   },
+                 {
+    "id": 5,
+    "titulo": "Audifonos Wireless Skullcandy Spoke",
+    "descripcion": "Escucha tu música con total libertad, conecta tus dispositivos por bluetooth y muévete sin cables. Las almohadillas intercambiables te darán un ajuste perfecto, para aislar los ruidos externos.",
+    "imagen1": "https://i.ibb.co/f1bpQpM/219029-800-auto-removebg-preview.png",
+    "imagen2": "https://i.ibb.co/5nYWXYr/219030-800-auto-removebg-preview.png",
+    "imagen3": "https://i.ibb.co/7Q0ww8J/219031-800-auto-removebg-preview.png",
+    "descuento": 10,
+    "precio": 169.90,
+    "delivery":"Free shipping"
+   }
+                     {
+    "id": 6,
+    "titulo": "Tablet Lenovo TAB M8 HD 2da Gen 8",
+    "descripcion": "Este dispositivo trabaja con un procesador MediaTek Helio A22 2.0Ghz QC, sistema operativo Android 9.0 Pie, memoria RAM de 2 GB, almacenamiento de 32 GB eMMC y batería de 5000 mAh. Mantente siempre conectado mediate Wifi.",
+    "imagen1": "https://i.ibb.co/527wW1Y/190199-800-auto-removebg-preview.png",
+    "imagen2": "https://i.ibb.co/bsB1B3D/215016-800-auto-removebg-preview.png",
+    "imagen3": "https://i.ibb.co/Sd5Jk9H/215013-800-auto-removebg-preview.png",
+    "descuento": 10,
+    "precio": 429,
     "delivery":"Free shipping"
    }
   ]
